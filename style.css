@@ -1,4 +1,13 @@
-header {
+.cabecalho {
 background: #59D9F6;
 color: rebeccapurple;
+}
+.logo{
+width: 200px;
+position: relative;
+top: 50px;
+left: 150px;
+}
+.item{
+    font-size: 50px;
 }
