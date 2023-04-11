@@ -1,13 +1,30 @@
-.cabecalho {
-background: #59D9F6;
-color: rebeccapurple;
+.cabecalhoprincipal { 
+    background: purple;
+    color: white;
+}
+.cabeçalho{
+    display: flex;
+    font-size: 60px;
 }
 .logo{
-width: 200px;
-position: relative;
-top: 50px;
-left: 150px;
+    width: 250px;
+    position: relative;
+    left: 300px;
+    top: 35px;
 }
+
 .item{
-    font-size: 50px;
+    color: green;
+    position: relative;
+    left: 500px;
+}
+.alura{
+    width: 200px;
+    position: relative;
+    top: 700px;
+    left: 1000px;
+}
+.estudante-div{
+    position: relative;
+
 }
